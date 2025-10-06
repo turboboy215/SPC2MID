@@ -1,0 +1,1 @@
+@for %%a in (*.spc) do SNESKrisalis "%%a"
