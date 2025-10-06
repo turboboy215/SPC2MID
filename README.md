@@ -7,6 +7,7 @@ Currently, the following programs are available:
  * SNESProbe - Probe Software
  * SNESCapcom - Capcom
  * SNESClimax - Climax/Images Software (IMEDSNES) (converts to MOD)
+ * SNESKrisalis - Krisalis (by Shaun Hollingworth) (converts to XM)
  * SNESMW - Martin Walker
  * SNESSculpt - Sculptured Software (Berlioz)
  * SNESSV - System Vision/Kaneko
