@@ -523,11 +523,6 @@ void song2mid(int songNum, unsigned long songPtrs[8])
 			endChan = 0;
 			patPos = songPtrs[curTrack];
 
-			if (curTrack == 5)
-			{
-				curTrack = 5;
-			}
-
 			if (songPtrs[curTrack] == 0x0000)
 			{
 				endChan = 1;
