@@ -10,6 +10,7 @@ Currently, the following programs are available:
  * SNESDW - David Whittaker
  * SNESKrisalis - Krisalis (by Shaun Hollingworth) (converts to XM)
  * SNESMW - Martin Walker
+ * SNESNint - N-SPC (Nintendo)
  * SNESSculpt - Sculptured Software (Berlioz)
  * SNESSV - System Vision/Kaneko
 
@@ -19,4 +20,4 @@ Note: To run the applications, you will need Visual Studio redistributables.
 
 See also: my programs PROB2MID and CAP2MID which also support SNES as well as other consoles, and GB2MID which aims to support all GB/GBC games.
 
-See the included DOCX file for a list of supported games using each program.
+See the included DOCX file for a list of supported games using each program, as well as required per-game settings and other information.
