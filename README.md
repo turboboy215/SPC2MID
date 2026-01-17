@@ -8,6 +8,7 @@ Currently, the following programs are available:
  * SNESCapcom - Capcom
  * SNESClimax - Climax/Images Software (IMEDSNES) (converts to MOD)
  * SNESDW - David Whittaker
+ * SNESKAZe - KAZe/Meldac
  * SNESKrisalis - Krisalis (by Shaun Hollingworth) (converts to XM)
  * SNESMW - Martin Walker
  * SNESNint - N-SPC (Nintendo)
