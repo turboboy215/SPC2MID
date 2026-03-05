@@ -4,7 +4,7 @@ SNES (SPC) music to MIDI converters
 This is a series of programs that convert music from SNES SPC files to MIDI (or tracker format depending on the sound engine). Different programs support a different set of games - i.e. those using a different sound engine.
 
 Currently, the following programs are available:
- * SNESProbe - Probe Software
+ * SNESArc - Arc System Works
  * SNESCapcom - Capcom
  * SNESClimax - Climax/Images Software (IMEDSNES) (converts to MOD)
  * SNESDW - David Whittaker
@@ -12,6 +12,7 @@ Currently, the following programs are available:
  * SNESKrisalis - Krisalis (by Shaun Hollingworth) (converts to XM)
  * SNESMW - Martin Walker
  * SNESNint - N-SPC (Nintendo)
+ * SNESProbe - Probe Software
  * SNESSculpt - Sculptured Software (Berlioz)
  * SNESSV - System Vision/Kaneko
 
